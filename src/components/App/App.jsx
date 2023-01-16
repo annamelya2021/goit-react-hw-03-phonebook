@@ -4,6 +4,7 @@ import Filter from 'components/Filter';
 import { Component } from 'react';
 import { Notify } from 'notiflix';
 import { Container } from './App.styled';
+//
 
 class App extends Component {
   state = {
